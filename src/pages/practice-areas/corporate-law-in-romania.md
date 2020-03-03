@@ -1,0 +1,5 @@
+---
+templateKey: about-page
+title: Corporate Law
+---
+Legal assistance for the incorporation of companies based in Romania, the subsidiaries and branches of foreign companies in Romania. Incorporation and registration of representative offices in Romania of foreign law companies. Drafting of articles of association, drafting of resolutions modifying articles of association, assistance for the registration of companies with the Trade Register. Assistance for the dissolution and removal of companies. Mergers and spin-offs of companies. Assistance for managers / partners / shareholders for the summoning and preparation within the general meetings of the associates / shareholders. Assistance within the conduct of general meetings of the associates / shareholders. Assistance and representation before the Romanian courts within proceedings for the annulment of decisions made in the general meetings of shareholders.	The firm was established in 1999 and offers a full range of legal services. The firm has close cooperation relationship with law firms in Italy, England, Germany, Norway and United States of America. 
